@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ExecutionDecode:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ExecutionDecode_jar</output-path>
+    <root id="archive" name="ExecutionDecode.jar">
+      <element id="module-output" name="ExecutionDecode" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/java/lib/cryptacular-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/java/lib/bcprov-jdk15on-1.50.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/java/lib/spring-webflow-2.4.1.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/java/lib/spring-webflow-client-repo-1.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
